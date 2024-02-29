@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Prince! 👋
 
-<!--
-**pcyrus1/pcyrus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Backend Developer  
+📚 Always hungry to learn and solve problems collaboratively  
+👥 Excels in group collaborative efforts  
 
-Here are some ideas to get you started:
+🌐 Exploring the vast world of backend development with an insatiable appetite for learning. I thrive on solving complex problems and believe in the power of collaborative efforts to create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💨 Always ready to gain and share knowledge!
+⚙️ Tech Stack: TypeScript, JavaScript [Node.js], HTM, MySQL
+🏃 Hobbies: Football & Athletics 
+🕺🏾 Lifestyle: Always keeping the work-life balance. Always down to have some fun 
+🔍 Open to diverse opportunities and challenges that foster growth and innovation.
+
+📈 Let's connect and build something extraordinary together! 🚀
+
