@@ -1,6 +1,6 @@
 ### Hi there, I'm Prince! 👋
 
-🚀 Junior Backend Developer  
+🚀 Junior Software Developer  
 📚 Always hungry to learn and solve problems collaboratively  
 👥 Excels in group collaborative efforts  
 
