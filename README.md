@@ -1,6 +1,6 @@
 ### Hi there, I'm Prince! 👋
 
-🚀 Junior Software Developer  
+🚀 Software Developer  
 📚 Always hungry to learn and solve problems collaboratively  
 👥 Excels in group collaborative efforts  
 
